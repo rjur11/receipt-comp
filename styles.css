@@ -3,7 +3,6 @@ darker blue: #0984e3 */
 
 body {
   font-family: "Roboto", sans-serif;
-  box-shadow: 12px 12px 2px 1px rgba(0, 0, 0, 0.2);
   background: #74b9ff;
   font-weight: 200;
 }
